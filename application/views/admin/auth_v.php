@@ -25,13 +25,13 @@
                     <div class="card">
 
                         <!-- Logo -->
-                        <div class="card-header pt-4 pb-4 text-center bg-dark">
-                            <a href="index.html">
-                                <span><img src="<?= base_url() ?>assets/upload/logo/<?= $logo ?>" alt="" height="20"></span>
-                            </a>
+                        <div class="card-header  text-center ">
+
+                            <span><img src="<?= base_url() ?>assets/upload/logo/<?= $logo ?>" alt="" height="50"></span>
+
                         </div>
 
-                        <div class="card-body p-4 bg-dark">
+                        <div class="card-body p-4 ">
 
                             <div class="text-center w-75 m-auto">
                                 <h4 class="text-dark-50 text-center pb-0 fw-bold">Sign In</h4>

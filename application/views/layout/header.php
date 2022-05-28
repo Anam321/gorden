@@ -6,7 +6,7 @@
     <title><?= $judul ?></title>
 
 
-    <link href="img/favicon.ico" rel="icon">
+    <link href="<?= base_url() ?>assets/upload/logo/logo2.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
