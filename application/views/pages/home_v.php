@@ -119,7 +119,7 @@ function waktu_lalu($timestamp)
                 <div class="p-lg-5 pe-lg-0">
                     <h6 class="text-primary">About Us</h6>
                     <h1 class="mb-4">
-                        25+ Jasa Bengkel Las Terbaik Untuk Rumah Anda
+                        25+ Menawarkan Beberapa Pilihan Model Gorden Untuk Anda
                     </h1>
                     <p>
                         <?= $deskripsi ?>
