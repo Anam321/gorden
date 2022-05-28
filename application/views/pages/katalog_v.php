@@ -64,7 +64,7 @@ function waktu_lalu($timestamp)
             <div class="row">
                 <div class="col-12 text-center mb-2">
                     <ul class="list-inline mb-4" id="portfolio-flters">
-                        <li onclick="listproduk()" class="btn btn-outline-primary m-1 active" data-filter="*">All</li>
+                        <li onclick="listproduk()" class="btn btn-outline-primary m-1 " data-filter="*">All</li>
                         <?php foreach ($kategori as $kategori) : ?>
                             <li onclick="orderby('<?= $kategori->kategori ?>')" class="btn btn-outline-primary m-1"><?= $kategori->kategori ?></li>
                         <?php endforeach ?>

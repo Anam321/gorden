@@ -17,19 +17,19 @@
 
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 Canopy
-                <span class="badge badge-primary badge-pill"><?= $canopy ?></span>
+                <span class="badge badge-primary badge-pill text-primary"><?= $canopy ?></span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 Raling Tangga
-                <span class="badge badge-primary badge-pill"><?= $tangga ?></span>
+                <span class="badge badge-primary badge-pill text-primary"><?= $tangga ?></span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 Pagar Tralis
-                <span class="badge badge-primary badge-pill"><?= $pagar ?></span>
+                <span class="badge badge-primary badge-pill text-primary"><?= $pagar ?></span>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 Tralis
-                <span class="badge badge-primary badge-pill"><?= $tralis ?></span>
+                <span class="badge badge-primary badge-pill text-primary"><?= $tralis ?></span>
             </li>
 
         </ul>
