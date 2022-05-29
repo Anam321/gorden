@@ -28,7 +28,41 @@ function waktu_lalu($timestamp)
 }
 ?>
 <!-- Carousel Start -->
+<style>
+    @media screen and (max-width: 500px) {
+        /* .col-sm-4 {
+            width: 50%;
+            padding: 6px;
+            margin: auto;
+        } */
 
+        .col-lg-3 {
+            width: 50%;
+            padding: 6px;
+            margin: auto;
+        }
+
+        .col-lg-4 {
+            width: 50%;
+            padding: 6px;
+            margin: auto;
+        }
+
+        /* .col-md-6 {
+            width: 50%;
+            padding: 6px;
+            margin: auto;
+        } */
+
+        .col-md-4 {
+            width: 50%;
+            padding: 6px;
+            margin: auto;
+        }
+
+
+    }
+</style>
 
 <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="owl-carousel header-carousel position-relative">
