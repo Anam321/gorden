@@ -96,7 +96,7 @@ function waktu_lalu($timestamp)
                     <h1 class="mb-4">Katalog</h1>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12 text-center mb-2">
                     <ul class="list-inline mb-4" id="portfolio-flters">
                         <li onclick="listproduk()" class="btn btn-outline-primary m-1 " data-filter="*">All</li>
@@ -105,7 +105,7 @@ function waktu_lalu($timestamp)
                         <?php endforeach ?>
                     </ul>
                 </div>
-            </div>
+            </div> -->
             <div class="row pb-3" id="listkatalog"></div>
 
 
